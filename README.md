@@ -1,32 +1,32 @@
 # Projeto Integrador — Site de Arquitetura
 
-## 📖 Sobre o projeto
+## 📘 Sobre o projeto
 
-Este projeto consiste em um **modelo de site institucional para um escritório de arquitetura**, desenvolvido com foco em apresentação visual, organização de conteúdo e experiência do usuário.
+Este projeto consiste em um **modelo de site institucional** desenvolvido para um escritório de arquitetura, com foco em **apresentação visual**, **organização de conteúdo** e **experiência do usuário**.
 
-O objetivo principal é demonstrar a construção de uma landing page moderna, limpa e funcional, adequada para profissionais da área de arquitetura, design de interiores ou engenharia.
+O objetivo principal é demonstrar a construção de uma **landing page moderna, limpa e funcional**, adequada para profissionais das áreas de **arquitetura, design de interiores e engenharia**, valorizando estética, clareza e navegação intuitiva.
 
-Este projeto foi desenvolvido como parte de um **Projeto Integrador educacional**, com foco em boas práticas de HTML, CSS e JavaScript básico.
+Este trabalho foi desenvolvido como parte de um **Projeto Integrador educacional**, aplicando boas práticas de **HTML, CSS e JavaScript**, com foco em estrutura, responsividade e organização de código.
 
 ---
 
 ## 🎯 Objetivos
 
-- Criar um layout visualmente atrativo para um site de arquitetura
-- Aplicar conceitos de estruturação semântica em HTML
-- Utilizar CSS para estilização, layout e responsividade
-- Implementar interações simples com JavaScript
-- Organizar arquivos e pastas de forma clara e profissional
+- Criar um layout visualmente atrativo para um site institucional de arquitetura  
+- Aplicar conceitos de **estruturação semântica em HTML**  
+- Utilizar **CSS** para estilização, layout e responsividade  
+- Implementar **interações simples com JavaScript** (menu e comportamento dinâmico)  
+- Organizar arquivos e pastas de forma clara e profissional  
 
 ---
 
 ## 🛠️ Tecnologias utilizadas
 
-- **HTML5** — Estruturação do conteúdo
-- **CSS3** — Estilização e layout da página
-- **JavaScript** — Interações básicas (menu e comportamento dinâmico)
-- **VS Code** — Ambiente de desenvolvimento
-- **Live Server** — Visualização local do projeto
+- **HTML5** — Estruturação do conteúdo  
+- **CSS3** — Estilização, layout e responsividade  
+- **JavaScript** — Interações básicas e comportamento dinâmico  
+- **Visual Studio Code** — Ambiente de desenvolvimento  
+- **Live Server** — Visualização local do projeto  
 
 ---
 
@@ -44,7 +44,3 @@ projetointegrador/
 ├── index.html
 ├── style.css
 └── menu.js
-
-
-Este projeto está licenciado sob a licença **MIT**.  
-Sinta-se livre para estudar, adaptar e reutilizar para fins educacionais.
